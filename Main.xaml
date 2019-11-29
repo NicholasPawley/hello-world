@@ -58,7 +58,7 @@
         <OutArgument x:TypeArguments="ui:GenericValue">[TestBox]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="ui:GenericValue">[12]</InArgument>
+        <InArgument x:TypeArguments="ui:GenericValue">[3]</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
